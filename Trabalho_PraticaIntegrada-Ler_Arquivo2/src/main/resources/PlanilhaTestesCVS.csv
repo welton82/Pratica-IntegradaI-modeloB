@@ -1,0 +1,18 @@
+id_tombamento,data_locacao,estado_conservacao,id_tombamento_anterior,nome_classe,nome_especie,nome_marca,observacao,valor_anual,valor_aquisicao,id_usuario
+30798,2022-10-15,TRUE,3798,moveis,madeira,cadeirart,bom,350.00,100.99,2
+30799,2022-10-16,TRUE,3799,moveis,madeira,cadeirart,bom,350.01,100.100,2
+30800,2022-10-17,TRUE,3800,moveis,madeira,cadeirart,bom,350.02,100.101,2
+30801,2022-10-18,TRUE,3801,moveis,madeira,cadeirart,bom,350.03,100.102,2
+30802,2022-10-19,TRUE,3802,moveis,madeira,cadeirart,bom,350.04,100.103,2
+30803,2022-10-20,TRUE,3803,moveis,madeira,cadeirart,bom,350.05,100.104,2
+30804,2022-10-21,TRUE,3804,moveis,madeira,cadeirart,bom,350.06,100.105,2
+30805,2022-10-22,TRUE,3805,moveis,madeira,cadeirart,bom,350.07,100.106,2
+30806,2022-10-23,TRUE,3806,moveis,madeira,cadeirart,bom,350.08,100.107,2
+30807,2022-10-24,TRUE,3807,moveis,madeira,cadeirart,bom,350.09,100.108,2
+30808,2022-10-25,TRUE,3808,moveis,madeira,cadeirart,bom,350.10,100.109,2
+30809,2022-10-26,TRUE,3809,moveis,madeira,cadeirart,bom,350.11,100.110,2
+30810,2022-10-27,TRUE,3810,moveis,madeira,cadeirart,bom,350.12,100.111,2
+30811,2022-10-28,TRUE,3811,moveis,madeira,cadeirart,bom,350.13,100.112,2
+30812,2022-10-29,TRUE,3812,moveis,madeira,cadeirart,bom,350.14,100.113,2
+30813,2022-10-30,TRUE,3813,moveis,madeira,cadeirart,bom,350.15,100.114,2
+30814,2022-10-31,FALSE,3814,moveis,madeira,cadeiras & cia,danificado,100.00,88.35,2
